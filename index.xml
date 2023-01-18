@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reshi Rajan</title>
+    <link>https://reshi-rajan.github.io/</link>
+    <description>Recent content on Reshi Rajan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jan 2023 21:18:56 -0500</lastBuildDate><atom:link href="https://reshi-rajan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>https://reshi-rajan.github.io/cv/</link>
+      <pubDate>Tue, 17 Jan 2023 21:40:12 -0500</pubDate>
+      
+      <guid>https://reshi-rajan.github.io/cv/</guid>
+      <description>My CV can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://reshi-rajan.github.io/research/</link>
+      <pubDate>Tue, 17 Jan 2023 21:40:12 -0500</pubDate>
+      
+      <guid>https://reshi-rajan.github.io/research/</guid>
+      <description>Research Interests My research interests are currently focused on comparative poltical behavior &amp;amp; insitutions, quantitative methods, and rational choice theory. My research specifically looks at ways in which insitutional arrangements (e.g. voting systems, government type, etc.) influence voters in democracies.
+Works in Progress The Effects of Compulsory Voting: A Case Study in Karnataka, India with Shane P. Singh
+Modeling Ideological Polarization: Spatial Modeling of Ideological Shifts</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://reshi-rajan.github.io/teaching/</link>
+      <pubDate>Tue, 17 Jan 2023 21:40:12 -0500</pubDate>
+      
+      <guid>https://reshi-rajan.github.io/teaching/</guid>
+      <description>Research Interests My research interests are currently focused on comparative poltical behavior &amp;amp; insitutions, quantitative methods, and rational choice theory. My research specifically looks at ways in which insitutional arrangements (e.g. voting systems, government type, etc.) influence voters in democracies.
+Works in Progress The Effects of Compulsory Voting: A Case Study in Karnataka, India with Shane P. Singh
+Modeling Ideological Polarization: Spatial Modeling of Ideological Shifts</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://reshi-rajan.github.io/posts/post/</link>
+      <pubDate>Tue, 17 Jan 2023 21:18:56 -0500</pubDate>
+      
+      <guid>https://reshi-rajan.github.io/posts/post/</guid>
+      <description>This is some content.</description>
+    </item>
+    
+  </channel>
+</rss>
