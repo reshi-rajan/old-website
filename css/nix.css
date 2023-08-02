@@ -7,7 +7,7 @@ html {
 }
 
 header {
-	background-color: #500000;
+	color: #500000;
 }
 
 body {
@@ -29,7 +29,7 @@ img {
 }
 
 #green-terminal {
-	color: #00ff00;
+	color: #500000;
 }
 
 .font-header {
