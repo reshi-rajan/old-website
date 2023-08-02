@@ -58,7 +58,7 @@ h1,h2,h3,h4,h5,h6 {
 .user-description {
 	border-style: solid;
 	border-width: 5px;
-	border-color: #500000;
+	border-color: #292929;
 	margin-top: 20px;
 	margin-bottom: 1em;
 	padding: 15px;
@@ -117,7 +117,7 @@ i {
 	margin-top: 20px;
 	border-style: solid;
 	border-width: 0 0 3px 0;
-	border-color: #500000;
+	border-color: #292929;
 }
 
 .post-comments {
@@ -172,6 +172,10 @@ td {
 	nav {
 		font-size: 80%;
 	}
+
+	.dropdown-menu li {
+		font-size: 80%;
+	}
 }
 
 @media screen and (max-width: 320px) {
@@ -184,6 +188,10 @@ td {
 	}
 
 	nav {
+		font-size: 80%;
+	}
+
+	.dropdown-menu li {
 		font-size: 80%;
 	}
 }
