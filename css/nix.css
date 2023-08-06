@@ -85,6 +85,10 @@ i {
 	float: left;
 }
 
+.post-date {
+	float: right;
+}
+
 .post-header {
 	background-color: #F5F5F5;
 	overflow: hidden;
